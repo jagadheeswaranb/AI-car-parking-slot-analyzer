@@ -1,0 +1,18 @@
+{% extends 'base1.html' %}
+
+{% block title %}Home Page{% endblock %}
+
+{% block home_active %}active{% endblock %}
+
+{% block content %}
+    <!-- Banner-section -->
+    <section id="hero">
+        <figure class="text-center">
+            <div class="container">
+                <h1>REVOLUTIONIZING CAR PARKING</h1>
+                <h2>AI ENABLED CAR PARKING USING OPENCV</h2>
+                <a class="btn btn-outline-primary" href="{{ url_for('signup') }}" role="button">Get Started</a>
+            </div>
+        </figure>
+    </section>
+{% endblock %}
