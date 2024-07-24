@@ -1,0 +1,264 @@
+
+.navbar-brand.navbar-brand1 {
+	color: white;
+  }
+  
+.navbar-nav.navbar-nav1 {
+	float: right;
+  }
+.icon-bar
+{
+ background: #fff;
+}
+.active{
+	background: #539add;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.header{
+	background: rgb(235, 27, 27);
+	height: 8vh;
+}
+
+.navbar-style{
+	box-shadow: 0 5px 10px #efefef;
+}
+
+.footer-bottom {  
+	width: 100%; 
+	height: 30px; 
+	padding : 10px;
+	text-align: center;  
+	color: #fff;  
+	background: rgb(99, 105, 114);  
+	position: sticky;
+	top: 100%;
+	}   
+
+*{
+	margin: 0;
+	padding : 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+section{
+	padding: 60px 0;
+	overflow: hidden;
+	}
+
+/* Banner section1 css **/
+#hero{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://m.economictimes.com/thumb/msid-85167533,width-1200,height-900,resizemode-4,imgsize-1065211/car-parking-getty.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#hero .container {
+	padding-top: 80px;
+ }
+
+#hero h1{
+	font-size: 48px;
+	font-weight: 700;
+	Line-height: 56px;
+	color: #fff;
+	margin : 0 0 10px 0;	
+}
+
+#hero h2{
+color: white;
+margin-bottom : 40px;
+font-size: 15px;
+Letter-spacing : 0.5px;
+text-transform: uppercase;
+}
+#hero .btn_get_started{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size : 14px;
+	Letter-spacing: 1px;
+	display: inline-block;
+	padding : 8px 28px;
+	border-radius : 50px;
+	margin: 10px;
+	border : 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+	transition: 0.6s all;
+}
+#hero .btn_get_started:hover{
+	background-color: #009970;
+	border: 2px solid #fff;
+}
+.c1{
+	color: #efefef;
+}
+/* Banner section2 css **/
+#hero1{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://watermark.lovepik.com/photo/20211202/large/lovepik-parking-lot-picture_501404976.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#hero1 .container {
+	padding-top: 80px;
+ }
+
+#hero1 h1{
+	font-size: 48px;
+	font-weight: 700;
+	Line-height: 56px;
+	color: #fff;
+	margin : 0 0 10px 0;	
+}
+
+#hero1 h2{
+color: white;
+margin-bottom : 40px;
+font-size: 15px;
+Letter-spacing : 0.5px;
+text-transform: uppercase;
+}
+#hero1 .btn_get_started{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size : 14px;
+	Letter-spacing: 1px;
+	display: inline-block;
+	padding : 8px 28px;
+	border-radius : 50px;
+	margin: 10px;
+	border : 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+	transition: 0.6s all;
+}
+#hero1 .btn_get_started:hover{
+	background-color: #009970;
+	border: 2px solid #fff;
+}
+
+/* Banner section2 css **/
+#hero2{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://watermark.lovepik.com/photo/20211202/large/lovepik-parking-lot-picture_501404976.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#hero2 .container {
+	padding-top: 80px;
+ }
+
+#hero2 h1{
+	font-size: 48px;
+	font-weight: 700;
+	Line-height: 56px;
+	color: #fff;
+	margin : 0 0 10px 0;	
+}
+
+#hero2 h2{
+color: white;
+margin-bottom : 40px;
+font-size: 15px;
+Letter-spacing : 0.5px;
+text-transform: uppercase;
+}
+#hero2 .btn_get_started{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size : 14px;
+	Letter-spacing: 1px;
+	display: inline-block;
+	padding : 8px 28px;
+	border-radius : 50px;
+	margin: 10px;
+	border : 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+	transition: 0.6s all;
+}
+#hero2 .btn_get_started:hover{
+	background-color: #009970;
+	border: 2px solid #fff;
+}
+
+/* Banner section3 css **/
+#hero3{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2022/10/27072334/How-to-Prepare-Your-Car-for-Long-term-Parking-_-Cover-21-10-22.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#hero3 .container {
+	padding-top: 80px;
+ }
+
+#hero3 h1{
+	font-size: 48px;
+	font-weight: 700;
+	Line-height: 56px;
+	color: #fff;
+	margin : 0 0 10px 0;	
+}
+
+#hero3 h2{
+color: white;
+margin-bottom : 40px;
+font-size: 15px;
+Letter-spacing : 0.5px;
+text-transform: uppercase;
+}
+#hero3 .btn_get_started{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size : 14px;
+	Letter-spacing: 1px;
+	display: inline-block;
+	padding : 8px 28px;
+	border-radius : 50px;
+	margin: 10px;
+	border : 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+	transition: 0.6s all;
+}
+#hero3 .btn_get_started:hover{
+	background-color: #009970;
+	border: 2px solid #fff;
+}

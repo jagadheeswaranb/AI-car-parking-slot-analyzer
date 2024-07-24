@@ -1,0 +1,105 @@
+.navbar-brand.navbar-brand1{
+	color: rgb(0, 0, 0);
+  }
+  
+.navbar-nav.navbar-nav1 {
+	float: right;
+  }
+.icon-bar
+{
+ background: #fff;
+}
+.active{
+	background: #539add;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.header1{
+	background: rgb(235, 27, 27);
+	height: 8vh;
+}
+
+.navbar-style{
+	box-shadow: 0 5px 10px #efefef;
+}
+
+.footer-bottom {  
+	width: 100%; 
+	height: 30px; 
+	padding : 10px;
+	text-align: center;  
+	color: #fff;  
+	background: rgb(99, 105, 114);  
+	position: sticky;
+	top: 100%;
+	}   
+
+*{
+	margin: 0;
+	padding : 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+section{
+	padding: 60px 0;
+	overflow: hidden;
+	}
+
+/*form css*/
+#hero1{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("https://images.pexels.com/photos/63294/autos-technology-vw-multi-storey-car-park-63294.jpeg?cs=srgb&dl=pexels-pixabay-63294.jpg&fm=jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.login {
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.login h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-size: 20px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
